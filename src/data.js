@@ -1,34 +1,24 @@
 export const projects = [
+  {
+    title: "Realtor",
+    subtitle: "",
+    description:"Realtor is a real estate management that allow user to buy or rent an apartment at affordable price",
+    image: "",
+    link: "https://realtor-website-pink.vercel.app/signin",
+  },
     {
-      title: "Realtor website",
-      subtitle: "Front End",
-      description:
-        "Realtor website is a real estate management app where people can visit to buy a landed properties",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+      title: "Todo App",
+      subtitle: "",
+      description:"Todo application allow user to make list of their Todo activities per day",
+      image: "",
+      link: "https://todo-ca2dqy83t-oluwabunmi-ayenis-projects.vercel.app/",
     },
     {
-      title: "Calculator App",
-      subtitle: "React js calculator app",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
+      title: "Real time counter App",
+      subtitle: "",
+      description:"The real time counter app help to count the number of characters a user in entering in the textarea",
+      image: "",
+      link: "https://real-time-counter-git-main-oluwabunmi-ayenis-projects.vercel.app/",
     },
-    {
-      title: "DevChat",
-      subtitle: "React and Firebase",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
-    },
-    {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
-    },
+    
   ];
